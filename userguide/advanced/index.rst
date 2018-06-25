@@ -7,4 +7,5 @@ This section of the documentation details advanced tasks that power users may wa
     :maxdepth: 1
     :name: toc-userguide-advanced
     
+    Snap configuration
     rootfs_overlay
